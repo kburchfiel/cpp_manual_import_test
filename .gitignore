@@ -1,0 +1,9 @@
+/build
+fake_country_data.csv
+fake_country_data.tsv
+fake_country_data.txt
+*_old*
+T_T100_SEGMENT_ALL_CARRIER_2024_top_10k_rows_by_pax.csv
+.vscode/
+csv_test_file.csv
+tsv_test_file.tsv
